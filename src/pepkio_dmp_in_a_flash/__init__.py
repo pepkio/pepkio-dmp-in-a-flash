@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Python client for Pepkio dmp-in-a-flash."""
 
 from .client import PepkioClient

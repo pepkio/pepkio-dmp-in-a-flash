@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """HTTP client for the Pepkio dmp-in-a-flash tool."""
 
 from __future__ import annotations

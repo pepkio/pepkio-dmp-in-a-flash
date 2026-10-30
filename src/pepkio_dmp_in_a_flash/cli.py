@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Command-line interface for pepkio-dmp-in-a-flash."""
 
 from __future__ import annotations
